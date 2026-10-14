@@ -111,3 +111,7 @@ Git branch) to get the newest content and help us catch bugs before release.
 * [`LICENSE.txt`](LICENSE.txt): Full text of the GNU GPLv3 license
 * [`LEGAL.md`](LEGAL.md): Legal information
 * [`CREDITS.md`](CREDITS.md): List of all developers and contributors
+
+## JoyOrbit integration
+
+The [joyorbit-build](joyorbit-build/) directory retains the pinned build and offline launcher modifications. The recipes target the recorded release commit, independently of this fork's current upstream snapshot.
